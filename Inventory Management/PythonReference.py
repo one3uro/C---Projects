@@ -1,4 +1,4 @@
-#This cOde was generated via Gemini Pro On thinking mode i used the layout of python as im familiar with out and bit by bit re-constructed the code to translate to its c++ equivalent. I also used the python code as a reference to ensure that the logic and structure of the C++ code matched the Python implementation.
+#This cOde was generated via Gemini Pro On thinking mode i used the layout of python as im familiar with it and bit by bit re-constructed the code to translate to its c++ equivalent. I also used the python code as a reference to ensure that the logic and structure of the C++ code matched the Python implementation.
 # import mysql.connector
 # from mysql.connector import Error
 # 
