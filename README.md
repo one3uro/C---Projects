@@ -6,7 +6,7 @@ Welcome to my repository tracking my C++ programming journey! This repository co
 
 * **[GPA Calculator](./GPA%20Calculator/)** - A console-based utility utilizing `std::unordered_map` and standard 4.0 quality points to safely calculate weighted student GPAs with full input buffer validation.
 
-* **[Inventory Management System](./Inventory%20Management%20System/)** - A hybrid full-stack console application that pipes JSON payloads from C++ to a background PHP engine. It interfaces with an XAMPP MySQL database to support secure record insertion, live table viewing, and threshold-based low-stock alerting.
+* **[Inventory Management System](./Inventory%20Management/)** - A hybrid full-stack console application that pipes JSON payloads from C++ to a background PHP engine. It interfaces with an XAMPP MySQL database to support secure record insertion, live table viewing, and threshold-based low-stock alerting.
 
 ---
 
